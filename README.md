@@ -1,6 +1,7 @@
 tAI
 
-In the Homo sapiens genome calculates tAI score for each gene, and returns the ratio tAI/(number of codons)
+This algorithm calculates tAI score for each gene in the Homo sapiens genome
+The output returns the number of codons found and the calculated tAI 
 
 Usage:
 
