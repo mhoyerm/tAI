@@ -1,6 +1,6 @@
 tAI
 
-This algorithm calculates tAI score for each gene in the Homo sapiens genome
+This algorithm calculates tAI score for each gene in the Homo sapiens genome.
 The output returns the number of codons found and the calculated tAI 
 
 Usage:
