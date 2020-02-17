@@ -1,6 +1,6 @@
 tAI
 
-In the Homo sapiens genome calculates CSC score for each gene, and returns the ratio CSC/(number of codons)
+In the Homo sapiens genome calculates tAI score for each gene, and returns the ratio tAI/(number of codons)
 
 Usage:
 
